@@ -53,13 +53,13 @@
 ## Coding Profiles
 
 LeetCode:
-(Add link)
+https://leetcode.com/u/ramesh_57/
 
 GitHub:
 https://github.com/RAMESH4257
 
 LinkedIn:
-(Add link)
+https://www.linkedin.com/in/rameshhh/
 
 ---
 
