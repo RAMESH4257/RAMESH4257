@@ -43,7 +43,7 @@
 
 ## Projects
 
-- EduGenie AI
+
 - AI Chatbot
 - AWS Cloud Projects
 - Machine Learning Projects
