@@ -1,16 +1,66 @@
-## Hi there 👋
+# Hi 👋 I'm Pandiri Ramesh
 
-<!--
-**RAMESH4257/RAMESH4257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Java Developer
+
+🐍 Python Programmer
+
+🚀 FastAPI Developer
+
+☁ AWS Learner
+
+📚 Solving Data Structures & Algorithms
+
+---
+
+## Skills
+
+- Java
+- Python
+- C
+- HTML
+- CSS
+- JavaScript
+- FastAPI
+- SQL
+- AWS
+- Git
+- GitHub
+
+---
+
+## Currently Learning
+
+- React
+- Machine Learning
+- Backend Development
+- System Design
+
+---
+
+## Projects
+
+- EduGenie AI
+- AI Chatbot
+- AWS Cloud Projects
+- Machine Learning Projects
+
+---
+
+## Coding Profiles
+
+LeetCode:
+(Add link)
+
+GitHub:
+https://github.com/RAMESH4257
+
+LinkedIn:
+(Add link)
+
+---
+
+⭐ Always Learning New Technologies
